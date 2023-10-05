@@ -40,6 +40,8 @@ The following hyperparameters were used during training:
 
 ## How to use mdoel from hugging face
 
+Link : [hieudinhpro/git-base-on-diffuision-dataset2](https://huggingface.co/hieudinhpro/git-base-on-diffuision-dataset2)
+
 ![hg](image/hg.png)
 
 ```
