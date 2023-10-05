@@ -23,7 +23,6 @@ The following hyperparameters were used during training:
 - train_batch_size: 4
 - seed: 42
 - gradient_accumulation_steps: 2
-- total_train_batch_size: 8
 - optimizer: Adam with betas=(0.9,0.999) and epsilon=1e-08
 - lr_scheduler_type: linear
 - num_epochs: 1
