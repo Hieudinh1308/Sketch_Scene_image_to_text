@@ -2,3 +2,4 @@ transformers
 jiwer
 datasets
 huggingface_hub
+streamlit

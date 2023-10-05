@@ -15,7 +15,6 @@ RUN pip3 install torch torchvision torchaudio --index-url https://download.pytor
 
 RUN  python3 app/load_model.py
 
-
 EXPOSE 8501
 
 
