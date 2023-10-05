@@ -82,4 +82,4 @@ docker pull hieudinhpro/sketch_scene_git_base:v1
 docker run -p 8501:8501 hieudinhpro/sketch_scene_git_base:v1
 ```
 
-![app](image/app.png) \
+![app](image/app2.png) \
