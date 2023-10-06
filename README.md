@@ -73,6 +73,7 @@ print(generated_caption)
 
 
 ## Using Docker
+> **Warning : run on laptop have minimun 8GB RAM and CPU >= i7**
 
 ```
 docker pull hieudinhpro/sketch_scene_git_base:v1
