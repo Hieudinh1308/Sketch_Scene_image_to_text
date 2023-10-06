@@ -7,13 +7,19 @@
 Using "hieudinhpro/diffuision-dataset2" Hugging Face dataset \
 Dataset copy from "zoheb/sketch-scene" \
 
-## Fine turning model
-This model is a fine-tuned version of microsoft/git-base on hieudinhpro/diffuision-dataset2 dataset. \
-
+## Overview the model 
 GIT (short for GenerativeImage2Text) model, base-sized version. \
 It was introduced in the paper GIT: A Generative Image-to-text Transformer for Vision and Language \
 
-Model train for task : Sketch Scene image to text \
+
+![hg](image/md.png) \
+
+
+## Fine turning model
+This model is a fine-tuned version of microsoft/git-base on hieudinhpro/diffuision-dataset2 dataset. \
+
+
+Model train for task :  image caption \
 
 ### Training hyperparameters
 
